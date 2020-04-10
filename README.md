@@ -12,9 +12,6 @@ Go语言实战
 - [简书](https://www.jianshu.com/u/947f3ccdd481)
 - [个人博客](http://lessisbetter.site/)
 
-
-![](./img/gzh_qrcode_little.jpg)
-
 ## 已发布文章
 
 可访问以上社区以获得更好阅读体验，也可访问以下Github链接。
